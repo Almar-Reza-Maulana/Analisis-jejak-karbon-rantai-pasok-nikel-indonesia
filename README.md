@@ -1,5 +1,7 @@
 # Analisis Jejak Karbon Rantai Pasok Nikel di Indonesia 🪨
 
+![img](https://github.com/Almar-Reza-Maulana/Analisis-jejak-karbon-rantai-pasok-nikel-indonesia/blob/main/Image/Smelter-1024x576.jpg)
+
 Project ini dibuat untuk memenuhi tugas serta untuk menganalisis dan memvisualisasikan jejak karbon (emisi CO₂) dari rantai pasok hilirisasi nikel di Indonesia, serta membandingkan skenario produksi konvensional dengan potensi produksi "hijau" (ramah lingkungan).
 
 ---
