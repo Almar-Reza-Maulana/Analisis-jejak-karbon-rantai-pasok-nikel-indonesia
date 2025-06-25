@@ -58,7 +58,7 @@ Data yang diperoleh di project ini merupakan data dummy, sehingga hasil analisis
 
 ## Hasil Project yang dibuat
 
-Teman-teman bisa melihat di folder ini
+Teman-teman bisa [Klik Disini](https://github.com/Almar-Reza-Maulana/Analisis-jejak-karbon-rantai-pasok-nikel-indonesia/tree/main/File%20untuk%20Analisis%20Data) untuk melihat hasilnya.
 
 ---
 
