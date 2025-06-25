@@ -6,13 +6,13 @@ Project ini dibuat untuk memenuhi tugas serta untuk menganalisis dan memvisualis
 
 ---
 
-## Latar Belakang
+## 💼 Latar Belakang
 
 Indonesia adalah pemain kunci dalam rantai pasok nikel global, terutama untuk kebutuhan baterai kendaraan listrik (EV) yang terus meningkat. Namun, proses pengolahan nikel, khususnya di smelter yang ditenagai oleh Pembangkit Listrik Tenaga Uap (PLTU) batu bara, memiliki jejak karbon yang sangat signifikan.
 
 ---
 
-## Tujuan
+## 🎯 Tujuan
 
 Proyek ini bertujuan untuk:
 
@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## Manfaat dari project ini
+## 💡 Manfaat dari project ini
 
 1. **Dasar Pengambilan Kebijakan**\
    Pemerintah dapat melihat dengan jelas bahwa sumber emisi terbesar adalah smelter. Oleh karena itu, kebijakan harus fokus ke sana.
@@ -32,7 +32,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## Daftar Library yang dibutuhkan
+## 📘 Daftar Library yang dibutuhkan
 
 1. `Pandas` = Membaca data dari file CSV dan mengelolanya dalam format tabel (DataFrame).
 2. `NumPy` = Melakukan operasi numerik, terutama untuk membuat array posisi grafik.
@@ -42,7 +42,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## Batasan Masalah
+## ⚠️ Batasan Masalah
 
 1. Fokus Eksklusif pada Emisi Karbon (CO₂)
 2. Tidak Menganalisis Aspek Ekonomi dan Finansial
@@ -50,19 +50,19 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## Sumber Data
+## 📝 Sumber Data
 
 Data yang diperoleh di project ini merupakan data dummy, sehingga hasil analisis ini belum tentu sesuai dengan aslinya di lapangan. Namun data yang saya ambil berdasarkan analisis berbagai literasi.
 
 ---
 
-## Hasil Project yang dibuat
+## </> Hasil Project yang dibuat
 
 Teman-teman bisa [Klik Disini](https://github.com/Almar-Reza-Maulana/Analisis-jejak-karbon-rantai-pasok-nikel-indonesia/tree/main/File%20untuk%20Analisis%20Data) untuk melihat hasilnya.
 
 ---
 
-## 🎯 Kesimpulan dan Implikasi Strategis
+## 🚩 Kesimpulan dan penutup
 
 Analisis ini bukan hanya sekadar visualisasi data, tetapi juga sebuah alat bantu strategis yang menyoroti urgensi dan peluang dalam hilirisasi nikel Indonesia. Temuan utamanya dapat dirangkum dalam tiga poin krusial:
 
@@ -75,6 +75,12 @@ Analisis ini bukan hanya sekadar visualisasi data, tetapi juga sebuah alat bantu
 3.  **Nikel Hijau Bukan Sekadar Isu Lingkungan, Tapi Keunggulan Kompetitif.**
     Di tengah tren global menuju rantai pasok berkelanjutan (seperti kebijakan CBAM Uni Eropa dan komitmen industri otomotif), kemampuan memproduksi nikel rendah karbon akan menjadi syarat utama untuk akses pasar dan daya saing di masa depan. Analisis ini memberikan "peta jalan" visual untuk mencapai keunggulan tersebut.
 
----
+Repositori ini di buat juga sebagai kontribusi nyata dalam menjawab tantangan teknis atas apa yang bisa kita lakukan untuk indonesia mempercepat transisi energi hijau. Dengan memadukan kekuatan Python serta prinsip-prinsip keberlanjutan dan keterbukaan, proyek ini diharapkan dapat menjadi referensi yang bermanfaat bagi para pembaca maupun pemerintah untuk sedikit menjawab tentang emisi karbon di hilirisasi nikel. Segala masukan, pengembangan lanjutan, atau kolaborasi sangat dihargai demi kemajuan bersama. Terima kasih atas perhatiannya terhadap proyek ini.
 
-## Daftar Pustaka
+
+## 📖 Daftar Pustaka
+• Go, S., Henry, C., Pinner, D., & Rogers, M. (2021). The raw-materials challenge: How the metals and mining sector will be at the core of enabling the energy transition. McKinsey & Company.
+• Kementerian Energi dan Sumber Daya Mineral. (2024). Laporan Reviu Informasi Strategis: Periode Okt - Des 2024.
+• PT Halmahera Persada Lygend. (2021). Dari Obi untuk Indonesia: Environmental, Social, & Governance Report 2021.
+
+---
