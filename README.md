@@ -79,8 +79,8 @@ Repositori ini di buat sebagai kontribusi nyata dalam menjawab tantangan teknis 
 
 
 ## 📖 Daftar Pustaka
-• Go, S., Henry, C., Pinner, D., & Rogers, M. (2021). The raw-materials challenge: How the metals and mining sector will be at the core of enabling the energy transition. McKinsey & Company.
-• Kementerian Energi dan Sumber Daya Mineral. (2024). Laporan Reviu Informasi Strategis: Periode Okt - Des 2024.
+• Go, S., Henry, C., Pinner, D., & Rogers, M. (2021). The raw-materials challenge: How the metals and mining sector will be at the core of enabling the energy transition. McKinsey & Company.\
+• Kementerian Energi dan Sumber Daya Mineral. (2024). Laporan Reviu Informasi Strategis: Periode Okt - Des 2024.\
 • PT Halmahera Persada Lygend. (2021). Dari Obi untuk Indonesia: Environmental, Social, & Governance Report 2021.
 
 ---
