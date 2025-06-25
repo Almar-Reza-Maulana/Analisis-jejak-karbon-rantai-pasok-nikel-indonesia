@@ -1,4 +1,4 @@
-# Analisis Jejak Karbon Rantai Pasok Nikel di Indonesia 🪨
+# ⛏️ Analisis Jejak Karbon Rantai Pasok Hilirisasi Nikel Indonesia 🪨
 
 ![img](https://github.com/Almar-Reza-Maulana/Analisis-jejak-karbon-rantai-pasok-nikel-indonesia/blob/main/Image/Smelter-1024x576.jpg)
 
@@ -58,7 +58,7 @@ Data yang diperoleh di project ini merupakan data dummy, sehingga hasil analisis
 
 ## </> Hasil Project yang dibuat
 
-Teman-teman bisa [Klik Disini](https://github.com/Almar-Reza-Maulana/Analisis-jejak-karbon-rantai-pasok-nikel-indonesia/tree/main/File%20untuk%20Analisis%20Data) untuk melihat hasilnya.
+Teman-teman bisa [Klik Disini](https://github.com/Almar-Reza-Maulana/Analisis-Jejak-Karbon-Rantai-Pasok-Hilirisasi-Nikel-Indonesia/blob/main/File%20untuk%20Analisis%20Data/Analisis_Tambang_Nikel_%20fixx.ipynb) untuk melihat hasilnya.
 
 ---
 
