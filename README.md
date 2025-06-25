@@ -75,7 +75,7 @@ Analisis ini bukan hanya sekadar visualisasi data, tetapi juga sebuah alat bantu
 3.  **Nikel Hijau Bukan Sekadar Isu Lingkungan, Tapi Keunggulan Kompetitif.**
     Di tengah tren global menuju rantai pasok berkelanjutan (seperti kebijakan CBAM Uni Eropa dan komitmen industri otomotif), kemampuan memproduksi nikel rendah karbon akan menjadi syarat utama untuk akses pasar dan daya saing di masa depan. Analisis ini memberikan "peta jalan" visual untuk mencapai keunggulan tersebut.
 
-Repositori ini di buat juga sebagai kontribusi nyata dalam menjawab tantangan teknis atas apa yang bisa kita lakukan untuk indonesia mempercepat transisi energi hijau. Dengan memadukan kekuatan Python serta prinsip-prinsip keberlanjutan dan keterbukaan, proyek ini diharapkan dapat menjadi referensi yang bermanfaat bagi para pembaca maupun pemerintah untuk sedikit menjawab tentang emisi karbon di hilirisasi nikel. Segala masukan, pengembangan lanjutan, atau kolaborasi sangat dihargai demi kemajuan bersama. Terima kasih atas perhatiannya terhadap proyek ini.
+Repositori ini di buat sebagai kontribusi nyata dalam menjawab tantangan teknis atas apa yang bisa kita lakukan untuk indonesia mempercepat transisi energi hijau. Dengan memadukan kekuatan Python serta prinsip-prinsip keberlanjutan dan keterbukaan, proyek ini diharapkan dapat menjadi referensi yang bermanfaat bagi para pembaca maupun pemerintah untuk sedikit menjawab tentang emisi karbon di hilirisasi nikel. Segala masukan, pengembangan lanjutan, atau kolaborasi sangat dihargai demi kemajuan bersama. Terima kasih atas perhatiannya terhadap proyek ini.
 
 
 ## 📖 Daftar Pustaka
